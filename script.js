@@ -19,7 +19,7 @@ const dadosHumor = {
         "Permita-se sentir, mas lembre-se: dias melhores virão. 🌈"
       ],
       imagens: [
-        "https://i.imgur.com/8Km9tLL.png",
+        "https://th.bing.com/th/id/R.2b0f32be826b9157b9d9698904774bc9?rik=I%2bt4KRPopcbfjg&pid=ImgRaw&r=0",
         "https://i.imgur.com/X3Y7xLZ.png",
         "https://i.imgur.com/mQ8I9G9.png"
       ]
@@ -87,4 +87,5 @@ const dadosHumor = {
       divImagem.innerHTML = "";
     }
   });
+
   
