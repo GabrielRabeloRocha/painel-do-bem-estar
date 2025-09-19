@@ -7,7 +7,7 @@ const dadosHumor = {
         "Sorria, porque seu sorriso ilumina o dia! 🌟"
       ],
       imagens: [
-        "https://i.imgur.com/4AiXzf8.png",
+        "https://th.bing.com/th/id/R.2b0f32be826b9157b9d9698904774bc9?rik=I%2bt4KRPopcbfjg&pid=ImgRaw&r=0",
         "https://i.imgur.com/2DhmtJ4.png",
         "https://i.imgur.com/fHyEMsl.png"
       ]
@@ -89,3 +89,4 @@ const dadosHumor = {
   });
 
   
+
